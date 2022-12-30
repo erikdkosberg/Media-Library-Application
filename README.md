@@ -9,5 +9,5 @@ As far as importing the data, all that matters is that Python 3+ is installed an
 
 One of the advantages of using the automator app is that we can take out important pieces of the code, passing them as command line arguments - one potential use for this might be to change where the files are getting stored without actually having to change the script itself.
 
-This application is meant to be run from MacOS only. Developed in Monterey 12.6 on a MBP 2020.
+This application is meant to be run from MacOS only. Developed in Monterey 12.6 on a MBP 2020 - M1.
 
