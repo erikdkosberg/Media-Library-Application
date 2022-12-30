@@ -1,0 +1,3 @@
+[console_scripts]
+osxmetadata=osxmetadata.__main__:cli
+
